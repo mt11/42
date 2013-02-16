@@ -326,7 +326,7 @@
 
 <!-- PBP manifest -->
 
-  <project path="manifest" name="htomasz/42" remote="github" revision="master" />
+  <project path="manifest" name="htomasz/42" remote="github" revision="jb42" />
 
 <!-- changed stuff to work with our msm7x30 -->
 
