@@ -324,9 +324,6 @@
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
 
-<!-- PBP manifest -->
-
-  <project path="manifest" name="htomasz/42" remote="github" revision="master" />
 
 <!-- changed stuff to work with our msm7x30 -->
 
