@@ -372,8 +372,8 @@
 
 <!-- Additional SEMC hardware sources -->
 
-  <project path="hardware/semc/dash" name="CyanogenMod/android_hardware_sony_DASH" remote="fxp" revision="cm-10.1"/>
-  <project path="hardware/ti/fmradio" name="CyanogenMod/android_hardware_ti_fmradio" remote="fxp" revision="cm-10.1" />
+  <project path="hardware/semc/dash" name="CyanogenMod/android_hardware_sony_DASH" remote="cm" revision="jellybean"/>
+  <project path="hardware/ti/fmradio" name="CyanogenMod/android_hardware_ti_fmradio" remote="cm" revision="cm-10.1" />
 
 <!--Device kernels -->
   <project path="kernel/semc/msm7x30" name="PolishBloodProject/semc-kernel-msm7x30" remote="kxp" revision="mr1-staging" />
