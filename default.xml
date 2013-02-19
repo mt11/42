@@ -343,7 +343,7 @@
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="github" revision="cm-10.1" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="github" revision="cm-10.1" />
   <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" remote="github" revision="cm-10.1" />
-  <project path="frameworks/native" name="VyanogenMod/android_frameworks_native" remote="github" revision="cm-10.1" />
+  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" remote="github" revision="cm-10.1" />
   <project path="frameworks/opt/telephony" name="CyanogenMod/android_frameworks_opt_telephony" remote="github" revision="cm-10.1" />
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" remote="github" revision="cm-10.1" />
   <project path="system/core" name="CyanogenMod/android_system_core" remote="github" revision="cm-10.1" />
