@@ -339,7 +339,7 @@
   <project path="hardware/qcom/display-caf" name="CyanogenMod/android_hardware_qcom_display-caf" remote="github" revision="cm-10.1" />
   <project path="hardware/qcom/display" name="cm42semc/android_hardware_qcom_display" remote="github" revision="cm-10.1" />
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" remote="github" revision="cm-10.1" />
-  <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="github" revision="cm10.1" />
+  <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="github" revision="cm-10.1" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="github" revision="cm-10.1" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="github" revision="cm-10.1" />
   <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" remote="github" revision="cm-10.1" />
@@ -372,8 +372,8 @@
 
 <!-- Additional SEMC hardware sources -->
 
-  <project path="hardware/semc/dash" name="CyanogenMod/android_hardware_sony_DASH" remote="fxp" revision="jellybean"/>
-  <project path="hardware/ti/fmradio" name="CyanogenMod/android_hardware_ti_fmradio" remote="fxp" revision="jellybean" />
+  <project path="hardware/semc/dash" name="CyanogenMod/android_hardware_sony_DASH" remote="fxp" revision="cm-10.1"/>
+  <project path="hardware/ti/fmradio" name="CyanogenMod/android_hardware_ti_fmradio" remote="fxp" revision="cm-10.1" />
 
 <!--Device kernels -->
   <project path="kernel/semc/msm7x30" name="PolishBloodProject/semc-kernel-msm7x30" remote="kxp" revision="mr1-staging" />
