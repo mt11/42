@@ -327,7 +327,7 @@
 
 <!-- changed stuff to work with our msm7x30 -->
 
-  <project path="build" name="PolishBloodProject/platform_build" remote="github" revision="jb-4.2" >
+  <project path="build" name="CyanogenMod/platform_build" remote="github" revision="cm-10.1" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="device/common" name="PolishBloodProject/android_device_common" remote="github" revision="master" />
